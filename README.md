@@ -1,0 +1,1 @@
+To follow the wall with a service server that detects nearest wall and then approaches it and then further aligns itself with the wall on the right side. The action server calculates the distance travelled.
